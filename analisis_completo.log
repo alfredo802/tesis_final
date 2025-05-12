@@ -1,0 +1,437 @@
+2025-05-09 00:59:47,630 - INFO - Iniciando ejecución completa: 2025-05-09 00:59:47
+2025-05-09 00:59:47,631 - INFO - ==================================================
+2025-05-09 00:59:47,631 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 00:59:47,631 - INFO - ==================================================
+2025-05-09 00:59:49,470 - ERROR - [ERROR] Error en análisis básico: module 'rutina_sensores' has no attribute 'main'
+2025-05-09 00:59:49,470 - INFO - ==================================================
+2025-05-09 00:59:49,470 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 00:59:49,470 - INFO - ==================================================
+2025-05-09 00:59:52,279 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 00:59:52,279 - INFO - ==================================================
+2025-05-09 00:59:52,279 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 00:59:52,279 - INFO - ==================================================
+2025-05-09 01:01:03,031 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 01:01:03,031 - INFO - ==================================================
+2025-05-09 01:01:03,031 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:01:03,031 - INFO - ==================================================
+2025-05-09 01:01:03,031 - INFO - Tiempo total de ejecución: 75.40 segundos
+2025-05-09 01:01:03,031 - INFO - rutina_sensores: [ERROR] Fallido
+2025-05-09 01:01:03,031 - INFO - control_calidad: [ERROR] Fallido
+2025-05-09 01:01:03,031 - INFO - pronosticos: [ERROR] Fallido
+2025-05-09 01:01:03,031 - ERROR - 
+[ERROR] Algunos análisis fallaron
+2025-05-09 01:01:26,354 - INFO - Iniciando ejecución completa: 2025-05-09 01:01:26
+2025-05-09 01:01:26,355 - INFO - ==================================================
+2025-05-09 01:01:26,355 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:01:26,356 - INFO - ==================================================
+2025-05-09 01:01:28,249 - ERROR - [ERROR] Error en análisis básico: module 'rutina_sensores' has no attribute 'main'
+2025-05-09 01:01:28,249 - INFO - ==================================================
+2025-05-09 01:01:28,249 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:01:28,249 - INFO - ==================================================
+2025-05-09 01:01:30,917 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 01:01:30,918 - INFO - ==================================================
+2025-05-09 01:01:30,918 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:01:30,918 - INFO - ==================================================
+2025-05-09 01:02:12,658 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 01:02:12,659 - INFO - ==================================================
+2025-05-09 01:02:12,659 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:02:12,659 - INFO - ==================================================
+2025-05-09 01:02:12,659 - INFO - Tiempo total de ejecución: 46.31 segundos
+2025-05-09 01:02:12,660 - INFO - rutina_sensores: [ERROR] Fallido
+2025-05-09 01:02:12,660 - INFO - control_calidad: [ERROR] Fallido
+2025-05-09 01:02:12,660 - INFO - pronosticos: [ERROR] Fallido
+2025-05-09 01:02:12,661 - ERROR - 
+[ERROR] Algunos análisis fallaron
+2025-05-09 01:02:45,054 - INFO - Iniciando ejecución completa: 2025-05-09 01:02:45
+2025-05-09 01:02:45,054 - INFO - ==================================================
+2025-05-09 01:02:45,054 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:02:45,054 - INFO - ==================================================
+2025-05-09 01:02:47,012 - INFO - Cargando datos de sensores...
+2025-05-09 01:02:47,034 - INFO - Iniciando análisis secuencial...
+2025-05-09 01:02:47,034 - INFO - Paso 1: Generando gráfico combinado de sensores...
+2025-05-09 01:02:47,034 - INFO - Generando gráfico combinado de sensores...
+2025-05-09 01:02:50,039 - INFO - Paso 2: Realizando análisis estadístico...
+2025-05-09 01:02:50,039 - INFO - Realizando análisis estadístico...
+2025-05-09 01:02:50,039 - INFO - Paso 3: Generando matriz de correlación...
+2025-05-09 01:02:50,039 - INFO - Generando matriz de correlación...
+2025-05-09 01:02:50,739 - INFO - Análisis completado exitosamente
+2025-05-09 01:02:50,739 - INFO - [OK] Análisis básico de sensores completado exitosamente
+2025-05-09 01:02:50,739 - INFO - ==================================================
+2025-05-09 01:02:50,739 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:02:50,739 - INFO - ==================================================
+2025-05-09 01:02:53,141 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 01:02:53,141 - INFO - ==================================================
+2025-05-09 01:02:53,141 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:02:53,141 - INFO - ==================================================
+2025-05-09 01:03:40,451 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 01:03:40,452 - INFO - ==================================================
+2025-05-09 01:03:40,452 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:03:40,452 - INFO - ==================================================
+2025-05-09 01:03:40,453 - INFO - Tiempo total de ejecución: 55.40 segundos
+2025-05-09 01:03:40,454 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 01:03:40,454 - INFO - control_calidad: [ERROR] Fallido
+2025-05-09 01:03:40,454 - INFO - pronosticos: [ERROR] Fallido
+2025-05-09 01:03:40,454 - ERROR - 
+[ERROR] Algunos análisis fallaron
+2025-05-09 01:04:09,465 - INFO - Iniciando ejecución completa: 2025-05-09 01:04:09
+2025-05-09 01:04:09,465 - INFO - ==================================================
+2025-05-09 01:04:09,465 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:04:09,466 - INFO - ==================================================
+2025-05-09 01:04:11,461 - INFO - Cargando datos de sensores...
+2025-05-09 01:04:11,500 - INFO - Iniciando análisis secuencial...
+2025-05-09 01:04:11,500 - INFO - Paso 1: Generando gráfico combinado de sensores...
+2025-05-09 01:04:11,500 - INFO - Generando gráfico combinado de sensores...
+2025-05-09 01:04:14,502 - INFO - Paso 2: Realizando análisis estadístico...
+2025-05-09 01:04:14,502 - INFO - Realizando análisis estadístico...
+2025-05-09 01:04:14,518 - INFO - Paso 3: Generando matriz de correlación...
+2025-05-09 01:04:14,518 - INFO - Generando matriz de correlación...
+2025-05-09 01:04:15,216 - INFO - Análisis completado exitosamente
+2025-05-09 01:04:15,216 - INFO - [OK] Análisis básico de sensores completado exitosamente
+2025-05-09 01:04:15,216 - INFO - ==================================================
+2025-05-09 01:04:15,216 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:04:15,216 - INFO - ==================================================
+2025-05-09 01:04:17,616 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 01:04:17,617 - INFO - ==================================================
+2025-05-09 01:04:17,617 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:04:17,617 - INFO - ==================================================
+2025-05-09 01:05:07,162 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 01:05:07,162 - INFO - ==================================================
+2025-05-09 01:05:07,162 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:05:07,162 - INFO - ==================================================
+2025-05-09 01:05:07,162 - INFO - Tiempo total de ejecución: 57.70 segundos
+2025-05-09 01:05:07,162 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 01:05:07,162 - INFO - control_calidad: [OK] Completado
+2025-05-09 01:05:07,162 - INFO - pronosticos: [OK] Completado
+2025-05-09 01:05:07,162 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 01:47:20,728 - INFO - Iniciando ejecución completa: 2025-05-09 01:47:20
+2025-05-09 01:47:20,728 - INFO - ==================================================
+2025-05-09 01:47:20,729 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:47:20,729 - INFO - ==================================================
+2025-05-09 01:47:20,735 - ERROR - [ERROR] Error en análisis básico: No module named 'numpy'
+2025-05-09 01:47:20,735 - INFO - ==================================================
+2025-05-09 01:47:20,736 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:47:20,736 - INFO - ==================================================
+2025-05-09 01:47:20,743 - ERROR - [ERROR] Error en control_calidad: No module named 'numpy'
+2025-05-09 01:47:20,743 - INFO - ==================================================
+2025-05-09 01:47:20,744 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:47:20,744 - INFO - ==================================================
+2025-05-09 01:47:20,755 - ERROR - [ERROR] Error en el análisis de pronósticos: No module named 'pandas'
+2025-05-09 01:47:20,755 - INFO - ==================================================
+2025-05-09 01:47:20,756 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:47:20,756 - INFO - ==================================================
+2025-05-09 01:47:20,757 - INFO - Tiempo total de ejecución: 0.03 segundos
+2025-05-09 01:47:20,757 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 01:47:20,758 - INFO - control_calidad: [OK] Completado
+2025-05-09 01:47:20,758 - INFO - pronosticos: [OK] Completado
+2025-05-09 01:47:20,758 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 01:47:59,030 - INFO - Iniciando ejecución completa: 2025-05-09 01:47:59
+2025-05-09 01:47:59,031 - INFO - ==================================================
+2025-05-09 01:47:59,031 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:47:59,031 - INFO - ==================================================
+2025-05-09 01:47:59,033 - ERROR - [ERROR] Error en análisis básico: No module named 'numpy'
+2025-05-09 01:47:59,033 - INFO - ==================================================
+2025-05-09 01:47:59,033 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:47:59,034 - INFO - ==================================================
+2025-05-09 01:47:59,035 - ERROR - [ERROR] Error en control_calidad: No module named 'numpy'
+2025-05-09 01:47:59,036 - INFO - ==================================================
+2025-05-09 01:47:59,036 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:47:59,036 - INFO - ==================================================
+2025-05-09 01:47:59,039 - ERROR - [ERROR] Error en el análisis de pronósticos: No module named 'pandas'
+2025-05-09 01:47:59,040 - INFO - ==================================================
+2025-05-09 01:47:59,040 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:47:59,040 - INFO - ==================================================
+2025-05-09 01:47:59,041 - INFO - Tiempo total de ejecución: 0.01 segundos
+2025-05-09 01:47:59,041 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 01:47:59,041 - INFO - control_calidad: [OK] Completado
+2025-05-09 01:47:59,042 - INFO - pronosticos: [OK] Completado
+2025-05-09 01:47:59,042 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 01:54:10,711 - INFO - Iniciando ejecución completa: 2025-05-09 01:54:10
+2025-05-09 01:54:10,711 - INFO - ==================================================
+2025-05-09 01:54:10,712 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 01:54:10,712 - INFO - ==================================================
+2025-05-09 01:54:12,993 - INFO - Cargando datos de sensores...
+2025-05-09 01:54:13,021 - INFO - Iniciando análisis secuencial...
+2025-05-09 01:54:13,021 - INFO - Paso 1: Generando gráfico combinado de sensores...
+2025-05-09 01:54:13,022 - INFO - Generando gráfico combinado de sensores...
+2025-05-09 01:54:15,971 - INFO - Paso 2: Realizando análisis estadístico...
+2025-05-09 01:54:15,972 - INFO - Realizando análisis estadístico...
+2025-05-09 01:54:15,985 - INFO - Paso 3: Generando matriz de correlación...
+2025-05-09 01:54:15,986 - INFO - Generando matriz de correlación...
+2025-05-09 01:54:16,801 - INFO - Análisis completado exitosamente
+2025-05-09 01:54:16,801 - INFO - [OK] Análisis básico de sensores completado exitosamente
+2025-05-09 01:54:16,801 - INFO - ==================================================
+2025-05-09 01:54:16,801 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 01:54:16,802 - INFO - ==================================================
+2025-05-09 01:54:19,471 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 01:54:19,471 - INFO - ==================================================
+2025-05-09 01:54:19,471 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 01:54:19,472 - INFO - ==================================================
+2025-05-09 01:55:10,700 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 01:55:10,700 - INFO - ==================================================
+2025-05-09 01:55:10,700 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 01:55:10,701 - INFO - ==================================================
+2025-05-09 01:55:10,701 - INFO - Tiempo total de ejecución: 59.99 segundos
+2025-05-09 01:55:10,702 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 01:55:10,702 - INFO - control_calidad: [OK] Completado
+2025-05-09 01:55:10,702 - INFO - pronosticos: [OK] Completado
+2025-05-09 01:55:10,703 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:11:37,870 - INFO - Iniciando ejecución completa: 2025-05-09 23:11:37
+2025-05-09 23:11:37,871 - INFO - ==================================================
+2025-05-09 23:11:37,871 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:11:37,871 - INFO - ==================================================
+2025-05-09 23:11:51,494 - INFO - Cargando datos de sensores...
+2025-05-09 23:11:51,507 - INFO - Iniciando análisis secuencial...
+2025-05-09 23:11:51,508 - INFO - Paso 1: Generando gráfico combinado de sensores...
+2025-05-09 23:11:51,508 - INFO - Generando gráfico combinado de sensores...
+2025-05-09 23:11:54,048 - INFO - Paso 2: Realizando análisis estadístico...
+2025-05-09 23:11:54,048 - INFO - Realizando análisis estadístico...
+2025-05-09 23:11:54,068 - INFO - Paso 3: Generando matriz de correlación...
+2025-05-09 23:11:54,069 - INFO - Generando matriz de correlación...
+2025-05-09 23:11:54,676 - INFO - Análisis completado exitosamente
+2025-05-09 23:11:54,677 - INFO - [OK] Análisis básico de sensores completado exitosamente
+2025-05-09 23:11:54,677 - INFO - ==================================================
+2025-05-09 23:11:54,677 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:11:54,677 - INFO - ==================================================
+2025-05-09 23:11:56,596 - INFO - [OK] Control de calidad completado exitosamente
+2025-05-09 23:11:56,596 - INFO - ==================================================
+2025-05-09 23:11:56,597 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:11:56,597 - INFO - ==================================================
+2025-05-09 23:12:43,438 - INFO - [OK] Análisis de pronósticos completado exitosamente
+2025-05-09 23:12:43,438 - INFO - ==================================================
+2025-05-09 23:12:43,439 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:12:43,439 - INFO - ==================================================
+2025-05-09 23:12:43,439 - INFO - Tiempo total de ejecución: 65.57 segundos
+2025-05-09 23:12:43,441 - INFO - rutina_sensores: [OK] Completado
+2025-05-09 23:12:43,442 - INFO - control_calidad: [OK] Completado
+2025-05-09 23:12:43,442 - INFO - pronosticos: [OK] Completado
+2025-05-09 23:12:43,442 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:19:21,135 - INFO - Iniciando ejecución completa: 2025-05-09 23:19:21
+2025-05-09 23:19:21,136 - INFO - ==================================================
+2025-05-09 23:19:21,136 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:19:21,137 - INFO - ==================================================
+2025-05-09 23:19:21,144 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_231921.txt
+2025-05-09 23:19:21,145 - INFO - ==================================================
+2025-05-09 23:19:21,145 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:19:21,146 - INFO - ==================================================
+2025-05-09 23:19:27,306 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_231927.txt
+2025-05-09 23:19:27,307 - INFO - ==================================================
+2025-05-09 23:19:27,307 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:19:27,307 - INFO - ==================================================
+2025-05-09 23:19:28,032 - ERROR - [ERROR] Error en el análisis de pronósticos: No se encontró el archivo de datos: datos_procesados\datos_procesados.csv
+2025-05-09 23:19:28,032 - INFO - ==================================================
+2025-05-09 23:19:28,033 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:19:28,033 - INFO - ==================================================
+2025-05-09 23:19:28,033 - INFO - Tiempo total de ejecución: 6.90 segundos
+2025-05-09 23:19:28,035 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_231928.txt
+2025-05-09 23:19:28,035 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:21:57,841 - INFO - Iniciando ejecución completa: 2025-05-09 23:21:57
+2025-05-09 23:21:57,841 - INFO - ==================================================
+2025-05-09 23:21:57,842 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:21:57,842 - INFO - ==================================================
+2025-05-09 23:21:57,845 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232157.txt
+2025-05-09 23:21:57,845 - INFO - ==================================================
+2025-05-09 23:21:57,846 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:21:57,846 - INFO - ==================================================
+2025-05-09 23:22:02,678 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232202.txt
+2025-05-09 23:22:02,678 - INFO - ==================================================
+2025-05-09 23:22:02,678 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:22:02,678 - INFO - ==================================================
+2025-05-09 23:22:02,679 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:22:02,701 - ERROR - Error al procesar datos: to assemble mappings requires at least that [year, month, day] be specified: [day,month,year] is missing
+2025-05-09 23:22:02,703 - ERROR - [ERROR] Error en el análisis de pronósticos: Error al procesar datos para pronósticos
+2025-05-09 23:22:02,703 - INFO - ==================================================
+2025-05-09 23:22:02,703 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:22:02,704 - INFO - ==================================================
+2025-05-09 23:22:02,704 - INFO - Tiempo total de ejecución: 4.86 segundos
+2025-05-09 23:22:02,706 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232202.txt
+2025-05-09 23:22:02,706 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:22:20,685 - INFO - Iniciando ejecución completa: 2025-05-09 23:22:20
+2025-05-09 23:22:20,686 - INFO - ==================================================
+2025-05-09 23:22:20,686 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:22:20,686 - INFO - ==================================================
+2025-05-09 23:22:20,687 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232220.txt
+2025-05-09 23:22:20,688 - INFO - ==================================================
+2025-05-09 23:22:20,689 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:22:20,689 - INFO - ==================================================
+2025-05-09 23:22:24,387 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232224.txt
+2025-05-09 23:22:24,388 - INFO - ==================================================
+2025-05-09 23:22:24,388 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:22:24,388 - INFO - ==================================================
+2025-05-09 23:22:24,388 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:22:24,427 - ERROR - Error al procesar datos: agg function failed [how->mean,dtype->object]
+2025-05-09 23:22:24,429 - ERROR - [ERROR] Error en el análisis de pronósticos: Error al procesar datos para pronósticos
+2025-05-09 23:22:24,429 - INFO - ==================================================
+2025-05-09 23:22:24,429 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:22:24,429 - INFO - ==================================================
+2025-05-09 23:22:24,429 - INFO - Tiempo total de ejecución: 3.74 segundos
+2025-05-09 23:22:24,431 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232224.txt
+2025-05-09 23:22:24,431 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:22:50,047 - INFO - Iniciando ejecución completa: 2025-05-09 23:22:50
+2025-05-09 23:22:50,048 - INFO - ==================================================
+2025-05-09 23:22:50,048 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:22:50,048 - INFO - ==================================================
+2025-05-09 23:22:50,050 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232250.txt
+2025-05-09 23:22:50,050 - INFO - ==================================================
+2025-05-09 23:22:50,050 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:22:50,051 - INFO - ==================================================
+2025-05-09 23:22:53,728 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232253.txt
+2025-05-09 23:22:53,729 - INFO - ==================================================
+2025-05-09 23:22:53,729 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:22:53,729 - INFO - ==================================================
+2025-05-09 23:22:53,730 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:22:53,782 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:22:53,782 - INFO - Registros procesados: 399
+2025-05-09 23:22:54,441 - ERROR - [ERROR] Error en el análisis de pronósticos: Singular matrix
+2025-05-09 23:22:54,442 - INFO - ==================================================
+2025-05-09 23:22:54,442 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:22:54,442 - INFO - ==================================================
+2025-05-09 23:22:54,442 - INFO - Tiempo total de ejecución: 4.39 segundos
+2025-05-09 23:22:54,444 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232254.txt
+2025-05-09 23:22:54,444 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:24:10,346 - INFO - Iniciando ejecución completa: 2025-05-09 23:24:10
+2025-05-09 23:24:10,347 - INFO - ==================================================
+2025-05-09 23:24:10,347 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:24:10,348 - INFO - ==================================================
+2025-05-09 23:24:10,350 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232410.txt
+2025-05-09 23:24:10,350 - INFO - ==================================================
+2025-05-09 23:24:10,351 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:24:10,351 - INFO - ==================================================
+2025-05-09 23:24:15,827 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232415.txt
+2025-05-09 23:24:15,827 - INFO - ==================================================
+2025-05-09 23:24:15,827 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:24:15,828 - INFO - ==================================================
+2025-05-09 23:24:15,828 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:24:15,895 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:24:15,895 - INFO - Registros procesados: 399
+2025-05-09 23:24:18,466 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_232418.txt
+2025-05-09 23:24:18,467 - INFO - ==================================================
+2025-05-09 23:24:18,467 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:24:18,467 - INFO - ==================================================
+2025-05-09 23:24:18,468 - INFO - Tiempo total de ejecución: 8.12 segundos
+2025-05-09 23:24:18,470 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232418.txt
+2025-05-09 23:24:18,470 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:25:06,263 - INFO - Iniciando ejecución completa: 2025-05-09 23:25:06
+2025-05-09 23:25:06,263 - INFO - ==================================================
+2025-05-09 23:25:06,263 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:25:06,264 - INFO - ==================================================
+2025-05-09 23:25:06,266 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232506.txt
+2025-05-09 23:25:06,266 - INFO - ==================================================
+2025-05-09 23:25:06,266 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:25:06,267 - INFO - ==================================================
+2025-05-09 23:25:10,609 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232510.txt
+2025-05-09 23:25:10,609 - INFO - ==================================================
+2025-05-09 23:25:10,609 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:25:10,609 - INFO - ==================================================
+2025-05-09 23:25:10,610 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:25:10,674 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:25:10,674 - INFO - Registros procesados: 399
+2025-05-09 23:25:13,234 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_232513.txt
+2025-05-09 23:25:13,234 - INFO - ==================================================
+2025-05-09 23:25:13,234 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:25:13,235 - INFO - ==================================================
+2025-05-09 23:25:13,235 - INFO - Tiempo total de ejecución: 6.97 segundos
+2025-05-09 23:25:13,237 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232513.txt
+2025-05-09 23:25:13,237 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:29:22,457 - INFO - Iniciando ejecución completa: 2025-05-09 23:29:22
+2025-05-09 23:29:22,458 - INFO - ==================================================
+2025-05-09 23:29:22,458 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:29:22,458 - INFO - ==================================================
+2025-05-09 23:29:22,460 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_232922.txt
+2025-05-09 23:29:22,460 - INFO - ==================================================
+2025-05-09 23:29:22,460 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:29:22,460 - INFO - ==================================================
+2025-05-09 23:29:27,667 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_232927.txt
+2025-05-09 23:29:27,667 - INFO - ==================================================
+2025-05-09 23:29:27,668 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:29:27,668 - INFO - ==================================================
+2025-05-09 23:29:27,668 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:29:27,733 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:29:27,734 - INFO - Registros procesados: 399
+2025-05-09 23:29:29,984 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_232929.txt
+2025-05-09 23:29:29,984 - INFO - ==================================================
+2025-05-09 23:29:29,985 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:29:29,985 - INFO - ==================================================
+2025-05-09 23:29:29,985 - INFO - Tiempo total de ejecución: 7.53 segundos
+2025-05-09 23:29:29,989 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_232929.txt
+2025-05-09 23:29:29,990 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:30:26,698 - INFO - Iniciando ejecución completa: 2025-05-09 23:30:26
+2025-05-09 23:30:26,698 - INFO - ==================================================
+2025-05-09 23:30:26,699 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:30:26,699 - INFO - ==================================================
+2025-05-09 23:30:26,702 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_233026.txt
+2025-05-09 23:30:26,703 - INFO - ==================================================
+2025-05-09 23:30:26,703 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:30:26,704 - INFO - ==================================================
+2025-05-09 23:30:31,681 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_233031.txt
+2025-05-09 23:30:31,681 - INFO - ==================================================
+2025-05-09 23:30:31,682 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:30:31,682 - INFO - ==================================================
+2025-05-09 23:30:31,683 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:30:31,763 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:30:31,763 - INFO - Registros procesados: 399
+2025-05-09 23:30:34,704 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_233034.txt
+2025-05-09 23:30:34,704 - INFO - ==================================================
+2025-05-09 23:30:34,705 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:30:34,706 - INFO - ==================================================
+2025-05-09 23:30:34,706 - INFO - Tiempo total de ejecución: 8.01 segundos
+2025-05-09 23:30:34,709 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_233034.txt
+2025-05-09 23:30:34,710 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:31:13,875 - INFO - Iniciando ejecución completa: 2025-05-09 23:31:13
+2025-05-09 23:31:13,876 - INFO - ==================================================
+2025-05-09 23:31:13,876 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:31:13,876 - INFO - ==================================================
+2025-05-09 23:31:13,878 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_233113.txt
+2025-05-09 23:31:13,878 - INFO - ==================================================
+2025-05-09 23:31:13,878 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:31:13,878 - INFO - ==================================================
+2025-05-09 23:31:17,867 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_233117.txt
+2025-05-09 23:31:17,867 - INFO - ==================================================
+2025-05-09 23:31:17,867 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:31:17,867 - INFO - ==================================================
+2025-05-09 23:31:17,867 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:31:17,913 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:31:17,914 - INFO - Registros procesados: 399
+2025-05-09 23:32:13,426 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_233213.txt
+2025-05-09 23:32:13,427 - INFO - ==================================================
+2025-05-09 23:32:13,429 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:32:13,429 - INFO - ==================================================
+2025-05-09 23:32:13,429 - INFO - Tiempo total de ejecución: 59.55 segundos
+2025-05-09 23:32:13,432 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_233213.txt
+2025-05-09 23:32:13,433 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
+2025-05-09 23:35:02,126 - INFO - Iniciando ejecución completa: 2025-05-09 23:35:02
+2025-05-09 23:35:02,126 - INFO - ==================================================
+2025-05-09 23:35:02,126 - INFO - INICIANDO ANÁLISIS BÁSICO DE SENSORES
+2025-05-09 23:35:02,126 - INFO - ==================================================
+2025-05-09 23:35:02,130 - INFO - [OK] Análisis básico de sensores completado exitosamente. Reporte generado: reportes/reporte_sensores_20250509_233502.txt
+2025-05-09 23:35:02,130 - INFO - ==================================================
+2025-05-09 23:35:02,130 - INFO - INICIANDO CONTROL DE CALIDAD
+2025-05-09 23:35:02,131 - INFO - ==================================================
+2025-05-09 23:35:07,542 - INFO - [OK] Control de calidad completado exitosamente. Reporte generado: reportes/reporte_control_calidad_20250509_233507.txt
+2025-05-09 23:35:07,542 - INFO - ==================================================
+2025-05-09 23:35:07,542 - INFO - INICIANDO ANÁLISIS DE PRONÓSTICOS
+2025-05-09 23:35:07,543 - INFO - ==================================================
+2025-05-09 23:35:07,543 - INFO - Procesando datos para pronósticos...
+2025-05-09 23:35:07,609 - INFO - Datos procesados guardados en datos_procesados/datos_procesados.csv
+2025-05-09 23:35:07,609 - INFO - Registros procesados: 399
+2025-05-09 23:35:24,333 - INFO - [OK] Análisis de pronósticos completado exitosamente. Reporte generado: reportes/reporte_pronosticos_20250509_233524.txt
+2025-05-09 23:35:24,334 - INFO - ==================================================
+2025-05-09 23:35:24,334 - INFO - RESUMEN DE EJECUCIÓN
+2025-05-09 23:35:24,334 - INFO - ==================================================
+2025-05-09 23:35:24,334 - INFO - Tiempo total de ejecución: 22.21 segundos
+2025-05-09 23:35:24,335 - INFO - Reporte final generado: reportes/reporte_resumen_final_20250509_233524.txt
+2025-05-09 23:35:24,336 - INFO - 
+[OK] Todos los análisis se completaron exitosamente
